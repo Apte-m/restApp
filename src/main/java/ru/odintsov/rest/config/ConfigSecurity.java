@@ -38,6 +38,4 @@ public class ConfigSecurity {
     public PasswordEncoder passwordEncoder() {
         return new BCryptPasswordEncoder(12);
     }
-
-
 }
