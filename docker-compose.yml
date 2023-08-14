@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  back:
+   build: .
+   container_name: back-end-rest
+   command: sh -c "cd /rest && ./gradlew bootRun"
+   restart: unless-stopped
+   ports:
+    - "8080:8080"
+   depends_on:
+    - postgres
+
+  postgres:
+   image: postgres:latest
+   container_name: postgres_for_app_rest
+   ports:
+    - "5432:5432"
+   environment:
+    - POSTGRES_PASSWORD=mysecretpassword
+    - POSTGRES_NAME=postgres
