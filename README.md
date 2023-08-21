@@ -1,6 +1,6 @@
 ## :rocket: Технологии и инструменты
 
-
+<p align="center">
  <a href="https://www.jetbrains.com/idea/"><img src="images/Intelij_IDEA.svg" width="50" height="50" alt="IntelliJ IDEA"/></a>
 - <a href="https://www.java.com/"><img src="images/Java.svg" width="50" height="50" alt="Java"/></a>
 - <a href="https://junit.org/junit5/"><img src="images/JUnit5.svg" width="50" height="50" alt="JUnit 5"/></a>
@@ -9,7 +9,7 @@
 - <a href="https://www.postgresql.org/"><img src="images/PostgreSQL.svg" width="50" height="50" alt="PostgreSQL"/></a>
 - <a href="https://projectlombok.org/"><img src="images/Lombok.svg" width="50" height="50" alt="Lombok"/></a>
 - <a href="https://www.docker.com/"><img src="images/Docker.svg" width="50" height="50" alt="Docker"/></a></a>
-
+</p>
 # Мой Проект Spring Boot Демо  "магази цветов".
 
 Проект на Spring Boot с использованием Spring Security, PostgreSQL, Lombok и Docker.
