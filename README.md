@@ -45,4 +45,4 @@
 - [Документация Lombok](https://projectlombok.org/features/all)
 - [Документация Docker](https://docs.docker.com/get-started/)
 
-Happy coding!
+
