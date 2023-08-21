@@ -1,7 +1,7 @@
 ## :rocket: Технологии и инструменты
 
 <p align="center">
- <a href="https://www.jetbrains.com/idea/"><img src="images/Intelij_IDEA.svg" width="50" height="50" alt="IntelliJ IDEA"/></a>
+ <a href="https://www.jetbrains.com/idea/"><img src="[images/Intelij_IDEA.svg](https://th.bing.com/th?id=OSK.1092f43f0366fbf2d19494b8553ee2d8&w=148&h=148&c=7&o=6&dpr=1.1&pid=SANGAM)" width="50" height="50" alt="IntelliJ IDEA"/></a>
 - <a href="https://www.java.com/"><img src="images/Java.svg" width="50" height="50" alt="Java"/></a>
 - <a href="https://junit.org/junit5/"><img src="images/JUnit5.svg" width="50" height="50" alt="JUnit 5"/></a>
 - <a href="https://spring.io/projects/spring-boot"><img src="images/SpringBoot.svg" width="50" height="50" alt="Spring Boot"/></a>
