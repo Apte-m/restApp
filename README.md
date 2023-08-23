@@ -1,12 +1,12 @@
 ## :rocket: Технологии и инструменты
 
 <p align="center">
- <a href="images/search?form=IARRTH&q=intellij+idea&first=1"><img src="https://th.bing.com/th?id=OSK.1092f43f0366fbf2d19494b8553ee2d8&w=148&h=148&c=7&o=6&dpr=1.1&pid=SANGAM" width="100" height="100" alt="IntelliJ IDEA"/></a>
-- <a href="/images/search?view=detailV2&ccid=%2fLm%2fT3sc&id=0D2B1B2836C364BFBBA1E148C35EB983C3CE70B7&thid=OIP._Lm_T3scKhVEVFC54gcRxwHaE8&mediaurl=https%3a%2f%2fdownload.logo.wine%2flogo%2fJava_(programming_language)%2fJava_(programming_language)-Logo.wine.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fcb9bf4f7b1c2a15445450b9e20711c7%3frik%3dt3DOw4O5XsNI4Q%26pid%3dImgRaw%26r%3d0&exph=2000&expw=3000&q=java&simid=608014644935275944&FORM=IRPRST&ck=94A12116733BCD055B8A01222B26DDAF&selectedIndex=0"><img src="https://th.bing.com/th/id/OIP._Lm_T3scKhVEVFC54gcRxwHaE8?w=244&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7" width="100" height="100" alt="Java"/></a>
-- <a href="https://junit.org/junit5/"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="100" height="100" alt="JUnit 5"/></a>
-- <a href="/images/search?form=IARRTH&q=spring+framework&first=1"><img src="https://th.bing.com/th?id=OSK.d63a4ed00425c1e5826a1ad6f240bd26&w=188&h=132&c=7&o=6&dpr=1.1&pid=SANGAM" width="100" height="100" alt="Spring Boot"/></a>
-- <a href="/images/search?form=IARRTH&q=postgresql&first=1"><img src="https://th.bing.com/th?id=OSK.1c3948e43e80a33a286269c9bbfceb00&w=148&h=148&c=7&o=6&dpr=1.1&pid=SANGAM" width="100" height="100" alt="PostgreSQL"/></a>
-- <a href="/images/search?form=IARRTH&q=docker&first=1"><img src="https://th.bing.com/th?id=OSK.140b08125adeaa264195719c4a83002c&w=188&h=132&c=7&o=6&dpr=1.1&pid=SANGAM" width="100" height="100" alt="Docker"/></a></a>
+ <a href="images/search?form=IARRTH&q=intellij+idea&first=1"><img src="https://th.bing.com/th?id=OSK.1092f43f0366fbf2d19494b8553ee2d8&w=148&h=148&c=7&o=6&dpr=1.1&pid=SANGAM" width="50" height="50" alt="IntelliJ IDEA"/></a>
+- <a href="/images/search?view=detailV2&ccid=%2fLm%2fT3sc&id=0D2B1B2836C364BFBBA1E148C35EB983C3CE70B7&thid=OIP._Lm_T3scKhVEVFC54gcRxwHaE8&mediaurl=https%3a%2f%2fdownload.logo.wine%2flogo%2fJava_(programming_language)%2fJava_(programming_language)-Logo.wine.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fcb9bf4f7b1c2a15445450b9e20711c7%3frik%3dt3DOw4O5XsNI4Q%26pid%3dImgRaw%26r%3d0&exph=2000&expw=3000&q=java&simid=608014644935275944&FORM=IRPRST&ck=94A12116733BCD055B8A01222B26DDAF&selectedIndex=0"><img src="https://th.bing.com/th/id/OIP._Lm_T3scKhVEVFC54gcRxwHaE8?w=244&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7" width="100" height="50" alt="Java"/></a>
+- <a href="https://junit.org/junit5/"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="100" height="50" alt="JUnit 5"/></a>
+- <a href="/images/search?form=IARRTH&q=spring+framework&first=1"><img src="https://th.bing.com/th?id=OSK.d63a4ed00425c1e5826a1ad6f240bd26&w=188&h=132&c=7&o=6&dpr=1.1&pid=SANGAM" width="50" height="50" alt="Spring Boot"/></a>
+- <a href="/images/search?form=IARRTH&q=postgresql&first=1"><img src="https://th.bing.com/th?id=OSK.1c3948e43e80a33a286269c9bbfceb00&w=148&h=148&c=7&o=6&dpr=1.1&pid=SANGAM" width="50" height="50" alt="PostgreSQL"/></a>
+- <a href="/images/search?form=IARRTH&q=docker&first=1"><img src="https://th.bing.com/th?id=OSK.140b08125adeaa264195719c4a83002c&w=188&h=132&c=7&o=6&dpr=1.1&pid=SANGAM" width="50" height="50" alt="Docker"/></a></a>
 </p>
 # Мой Проект Spring Boot Демо  "магази цветов".
 
