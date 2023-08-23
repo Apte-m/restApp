@@ -8,7 +8,7 @@
 - <a href="/images/search?form=IARRTH&q=postgresql&first=1"><img src="https://th.bing.com/th?id=OSK.1c3948e43e80a33a286269c9bbfceb00&w=148&h=148&c=7&o=6&dpr=1.1&pid=SANGAM" width="50" height="50" alt="PostgreSQL"/></a>
 - <a href="/images/search?form=IARRTH&q=docker&first=1"><img src="https://th.bing.com/th?id=OSK.140b08125adeaa264195719c4a83002c&w=188&h=132&c=7&o=6&dpr=1.1&pid=SANGAM" width="50" height="50" alt="Docker"/></a></a>
 </p>
-# Мой Проект Spring Boot Демо  "магази цветов".
+# Демо  "магази цветов".
 
 Проект на Spring Boot с использованием Spring Security, PostgreSQL, Lombok и Docker.
 
