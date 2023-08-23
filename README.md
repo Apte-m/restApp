@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="images/search?form=IARRTH&q=intellij+idea&first=1"><img src="https://th.bing.com/th?id=OSK.1092f43f0366fbf2d19494b8553ee2d8&w=148&h=148&c=7&o=6&dpr=1.1&pid=SANGAM" width="50" height="50" alt="IntelliJ IDEA"/></a>
-- <a href="https://th.bing.com/th?id=OIP.ANfN008bhlikSHWZAaVXSAHaHa&w=80&h=80&o=6&dpr=2&pid=5.1"><img src="https://th.bing.com/th?id=OIP.ANfN008bhlikSHWZAaVXSAHaHa&w=80&h=80&o=6&dpr=2&pid=5.1" width="50" height="50" alt="Java"/></a>
+- <a href="/images/search?view=detailV2&ccid=%2fLm%2fT3sc&id=0D2B1B2836C364BFBBA1E148C35EB983C3CE70B7&thid=OIP._Lm_T3scKhVEVFC54gcRxwHaE8&mediaurl=https%3a%2f%2fdownload.logo.wine%2flogo%2fJava_(programming_language)%2fJava_(programming_language)-Logo.wine.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fcb9bf4f7b1c2a15445450b9e20711c7%3frik%3dt3DOw4O5XsNI4Q%26pid%3dImgRaw%26r%3d0&exph=2000&expw=3000&q=java&simid=608014644935275944&FORM=IRPRST&ck=94A12116733BCD055B8A01222B26DDAF&selectedIndex=0"><img src="https://th.bing.com/th/id/OIP._Lm_T3scKhVEVFC54gcRxwHaE8?w=244&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7" width="50" height="50" alt="Java"/></a>
 - <a href="https://junit.org/junit5/"><img src="images/JUnit5.svg" width="50" height="50" alt="JUnit 5"/></a>
 - <a href="https://spring.io/projects/spring-boot"><img src="images/SpringBoot.svg" width="50" height="50" alt="Spring Boot"/></a>
 - <a href="https://spring.io/projects/spring-security"><img src="images/SpringSecurity.svg" width="50" height="50" alt="Spring Security"/></a>
